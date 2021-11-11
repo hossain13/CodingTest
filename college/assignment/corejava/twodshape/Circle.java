@@ -1,4 +1,4 @@
-package college.assignment.coreJave.twodshape;
+package college.assignment.corejava.twodshape;
 
 public class Circle  extends TwoDimensionalShape{
 

@@ -1,4 +1,4 @@
-package college.assignment.coreJave.threedshape;
+package college.assignment.corejava.threedshape;
 
 public class Cube extends ThreeDimensionalShape{
 

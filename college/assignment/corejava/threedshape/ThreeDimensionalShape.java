@@ -1,4 +1,4 @@
-package college.assignment.coreJave.threedshape;
+package college.assignment.corejava.threedshape;
 import college.assignment.corejava.Shape;
 
 public class ThreeDimensionalShape extends Shape{
